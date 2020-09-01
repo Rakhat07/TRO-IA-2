@@ -1,1 +1,0 @@
-print("poshel v zhopu raha ") 
