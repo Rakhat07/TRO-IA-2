@@ -1,3 +1,0 @@
-
-lev nikolaevich
-areken pachka
