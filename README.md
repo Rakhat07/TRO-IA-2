@@ -1,2 +1,1 @@
-salam brat'ya
-troia the best
+powel naxui
