@@ -19,11 +19,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a25a8b96-bc66-4fe2-86b7-7aeee6cfeef2" name="Default Changelist" comment="" />
+    <list default="true" id="a25a8b96-bc66-4fe2-86b7-7aeee6cfeef2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/areke.py" beforeDir="false" afterPath="$PROJECT_DIR$/areke.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turn.py" beforeDir="false" afterPath="$PROJECT_DIR$/turn.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,6 +48,56 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.words">
+    <configuration name="turn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="troia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/turn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="words" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="troia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/words.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.words" />
+        <item itemvalue="Python.turn" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -53,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598991046949</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="написал ареке">
+      <created>1599038802575</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599038802575</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -66,19 +135,37 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="areken pachka" />
-    <option name="LAST_COMMIT_MESSAGE" value="areken pachka" />
+    <MESSAGE value="написал ареке" />
+    <option name="LAST_COMMIT_MESSAGE" value="написал ареке" />
   </component>
   <component name="WindowStateProjectService">
     <state x="475" y="242" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598990854320">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="475" y="242" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.821@0.23.1440.821" timestamp="1598990854320" />
-    <state x="320" y="173" key="Vcs.Push.Dialog.v2" timestamp="1598991059224">
+    <state width="1379" height="198" key="GridCell.Tab.0.bottom" timestamp="1599645915559">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state x="320" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1598991059224" />
+    <state width="1379" height="198" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1599645915559" />
+    <state width="1379" height="198" key="GridCell.Tab.0.center" timestamp="1599645915558">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1379" height="198" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1599645915558" />
+    <state width="1379" height="198" key="GridCell.Tab.0.left" timestamp="1599645915557">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1379" height="198" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1599645915557" />
+    <state width="1379" height="198" key="GridCell.Tab.0.right" timestamp="1599645915558">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1379" height="198" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1599645915558" />
+    <state x="320" y="173" key="Vcs.Push.Dialog.v2" timestamp="1599038806790">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="320" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1599038806790" />
   </component>
 </project>
